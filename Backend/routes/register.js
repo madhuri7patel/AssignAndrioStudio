@@ -7,6 +7,7 @@ const bcrypt = require("bcrypt");
 // Registerrouter.get("/", (req, res) => {
 //   res.send("Welcome to Landing Page");
 // });
+//madhu
 
 Registerrouter.post("/", (req, res) => {
   try {
