@@ -17,9 +17,9 @@ const Navbartop = () => {
             />
           </Navbar.Brand>
           <Nav className="me-auto">
+            <a href="#Home">Home</a>
+            <a href="#gallery">Photo Gallery</a>
             <a href="#about">About Us</a>
-            <a href="#work">Our Work</a>
-            <a href="#reach">Our Reach</a>
             <a href="#funds">Our Funds</a>
             <a href="#involved">Get Involved</a>
             <a href="#partners">Partners</a>
